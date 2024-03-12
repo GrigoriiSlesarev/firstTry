@@ -18,3 +18,6 @@ class Hamster {
     boolean isFluffy;
     String colour;
 }
+class Git {
+    String name = "Grisha";
+}

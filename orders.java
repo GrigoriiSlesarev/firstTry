@@ -14,5 +14,6 @@ HashMap<String, Double> orders = new HashMap<>();
      }
         System.out.println("Всего было совершено заказов на сумму: " + sum);
          System.out.println("Как дела?");
+    System.out.println("люблю тебя?");
 }
 }
